@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f7373b5-27dd-43ce-92a6-b72d07b694db" name="Default Changelist" comment="" />
+    <list default="true" id="8f7373b5-27dd-43ce-92a6-b72d07b694db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bE9vkmkHDqT7GlOfAkHmlypDFC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,22 +98,22 @@
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
     <state x="-770" y="802" width="460" height="285" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588214637277" />
-    <state width="1039" height="559" key="GridCell.Tab.0.bottom" timestamp="1588557363187">
+    <state width="1039" height="559" key="GridCell.Tab.0.bottom" timestamp="1588557441503">
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
-    <state width="1039" height="559" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557363187" />
-    <state width="1039" height="559" key="GridCell.Tab.0.center" timestamp="1588557363186">
+    <state width="1039" height="559" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557441503" />
+    <state width="1039" height="559" key="GridCell.Tab.0.center" timestamp="1588557441503">
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
-    <state width="1039" height="559" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557363186" />
-    <state width="1039" height="559" key="GridCell.Tab.0.left" timestamp="1588557363186">
+    <state width="1039" height="559" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557441503" />
+    <state width="1039" height="559" key="GridCell.Tab.0.left" timestamp="1588557441503">
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
-    <state width="1039" height="559" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557363186" />
-    <state width="1039" height="559" key="GridCell.Tab.0.right" timestamp="1588557363187">
+    <state width="1039" height="559" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557441503" />
+    <state width="1039" height="559" key="GridCell.Tab.0.right" timestamp="1588557441503">
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
-    <state width="1039" height="559" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557363187" />
+    <state width="1039" height="559" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1588557441503" />
     <state width="1039" height="684" key="GridCell.Tab.1.bottom" timestamp="1588360964897">
       <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
